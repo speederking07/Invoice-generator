@@ -1,2 +1,2 @@
 # Invoice generator
-Simple program to create invoices, part of my programing course.
+Simple program to create invoices, part of my programming course.
